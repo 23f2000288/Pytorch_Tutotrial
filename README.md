@@ -1,50 +1,42 @@
-# 🧠 PyTorch Learning Journey – CampusX (by Nitish Sir)
+📚 About This Repository
 
-Welcome to my **PyTorch Learning Repository**, where I’m documenting and implementing everything I learn from the **CampusX Deep Learning with PyTorch** series by **Nitish Sir**.  
-This repository includes **lecture notes**, **hands-on code**, **assignments**, and **mini-projects** — all written and practiced by me while following along with the course.
+This repository acts as my personal learning journal as I strengthen my foundations in PyTorch, deep learning, and neural network implementation.
 
----
+Inside each folder, you'll find:
 
-## 📚 About This Repository
+📘 Jupyter Notebooks / Python scripts with clear, step-by-step implementations
 
-This repo serves as a personal learning journal and code collection as I progress through **PyTorch fundamentals**, **neural networks**, and **deep learning concepts**.
+🧩 Concept breakdowns and explanations in simple language
 
-Each folder corresponds to a lecture or topic and contains:
-- 📘 **Jupyter Notebooks / Python scripts** with step-by-step implementations  
-- 🧩 **Concept explanations** and notes  
-- 💡 **Code comments** and experiments  
-- 📊 **Mini projects** based on learned topics  
+💡 Code comments, experiments, and observations
 
----
+📊 Mini projects and guided exercises based on Daniel’s teachings
 
-## 🧩 Topics Covered
+🧩 Topics Covered
+#	Topic	Description
+01	PyTorch Basics	Tensors, operations, device management
+02	Matrix Operations & Gradients	Autograd, backprop, computation graph
+03	Building Models with nn.Module	Creating linear models and custom networks
+04	Classification with PyTorch	Logistic regression, softmax, loss functions
+05	Working with the Training Loop	Forward pass, backward pass, optimization
+06	Data Loading	Dataset, DataLoader, batching, shuffling
+07	Computer Vision Essentials	Building CNNs from scratch
+08	Exploring Real Datasets	Working with MNIST, CIFAR, and others
+09	Transfer Learning	Using and fine-tuning pretrained models
+10	Practical Projects	End-to-end deep learning projects
 
-| # | Topic | Description |
-|---|--------|-------------|
-| 01 | Introduction to PyTorch | Basics, tensors, and operations |
-| 02 | Autograd & Computation Graph | Understanding gradients and backward pass |
-| 03 | Linear Regression with PyTorch | Manual + `nn.Module` implementation |
-| 04 | Logistic Regression | Classification problem setup |
-| 05 | Neural Network from Scratch | Building multi-layer models manually |
-| 06 | Training Loop & Optimizers | Using `torch.optim`, learning rate tuning |
-| 07 | Dataset & DataLoader | Creating custom datasets and iterators |
-| 08 | CNNs | Image classification with convolutional layers |
-| 09 | Transfer Learning | Using pretrained models |
-| 10 | Projects | Real-world mini projects using PyTorch |
+(This list will expand continuously as I move forward in the course!)
 
-*(This list will grow as I progress through the course!)*
+🧠 My Learning Goals
 
----
+Build a solid understanding of PyTorch fundamentals.
 
-## 🧠 My Learning Goals
+Learn how to design, train, and optimize neural networks effectively.
 
-- Understand **core PyTorch concepts** deeply.  
-- Learn to build, train, and evaluate **Neural Networks**.  
-- Gain hands-on experience with **real-world deep learning tasks**.  
-- Develop clean, reusable, and well-documented code.  
-- Push consistent progress on GitHub 💪.
+Apply deep learning concepts to practical, real-world projects.
 
----
+Write clean, understandable, and modular code.
 
-## ⚙️ Project Structure
+Maintain consistent progress and organize everything clearly on GitHub.
+
 
